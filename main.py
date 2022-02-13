@@ -1,6 +1,5 @@
 import requests
 import bs4
-from pprint import pprint
 base_url = 'https://habr.com/'
 url = 'https://habr.com/ru/all/'
 KEYWORDS = ['WebMoney']
